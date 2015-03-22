@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gameInfo>
+	<limit>30</limit>
+	<maxStage>3</maxStage>
+	
+<stageInfo><stages><stage>1</stage><url>./images/rhino.jpg</url></stages><stages><stage>2</stage><url>./images/otter.jpg</url></stages><stages><stage>3</stage><url>./images/butterfly.jpg</url></stages></stageInfo></gameInfo>
